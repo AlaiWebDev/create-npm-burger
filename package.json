@@ -1,0 +1,14 @@
+{
+  "name": "create-npm-burger",
+  "version": "1.0.0",
+  "description": "Package qui permet de générer le code d'un menu burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erreur: Aucun test spécifié\" && exit 1"
+  },
+  "author": "Alain ORLUK",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
